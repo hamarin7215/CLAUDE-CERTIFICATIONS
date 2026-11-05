@@ -16,7 +16,7 @@ This page condenses the official exam guide and program pages. The [exam guide](
 | Fee | 125 USD, before any [partner-tier discount](../guide/faq.md#pricing-and-discounts) |
 | Validity | 12 months from the date you earn it |
 | Prerequisites | None. No course is required |
-| Language | English |
+| Language | English, Japanese |
 
 Registration requires a partner company email address recognized in the Claude Partner Network. This certification counts toward Claude Partner Network tier eligibility.
 

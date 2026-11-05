@@ -17,7 +17,7 @@ This exam differs from the other three: every question is framed by one of six p
 | Fee | 125 USD, before any [partner-tier discount](../guide/faq.md#pricing-and-discounts). Increased from 99 USD on June 30, 2026 |
 | Validity | 12 months from the date you earn it |
 | Prerequisites | None. No course is required |
-| Language | English |
+| Language | English, Japanese |
 
 Registration requires a partner company email address recognized in the Claude Partner Network. This certification counts toward Claude Partner Network tier eligibility.
 
@@ -132,3 +132,5 @@ Points worth noting before you schedule:
 ---
 
 Facts last verified against the official sources on 2026-09-13. [Repository index](../README.md)
+
+日本語で学習する場合は、[公式試験ガイド（日本語版）](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F34hhd92iyp94a0gtbr15cy5jk%2Fpublic%2F1791481681%2FClaude%2BCertified%2BArchitect%2B-%2BFoundations%2BExam%2BGuide%2B%28Japanese%29.pdf)の用語・サンプル問題を参照する。

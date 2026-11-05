@@ -7,6 +7,10 @@ description: Quiz and coach the user for the Anthropic Claude certification exam
 
 Coach the user toward passing one of the four Claude certification exams. Ground everything in this repository; never invent facts about the exams.
 
+## 出題言語
+
+日本語受験を標準とし、診断・通常演習・模試のシナリオ、設問、選択肢、採点後の解説は自然な日本語で提示する。英語教材を使う場合も条件・選択数・正解の根拠を保ち、日本語版の公式試験ガイドの用語に合わせる。API識別子・コマンド・設定キー・コードは原表記を保つ。英語または日英併記を希望されたときはその指定に従う。
+
 ## Setup
 
 1. Ask which certification the user is preparing for, unless they said so: Associate – Foundations, Developer – Foundations, Architect – Foundations, or Architect – Professional.
